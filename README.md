@@ -1,4 +1,4 @@
-### Hi there, I'm Hassan Koroma 👋
+# Hi there, I'm Hassan Koroma 👋
 ---
 
 - 👨🏾‍💻 Data Science Student
