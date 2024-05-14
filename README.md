@@ -1,5 +1,4 @@
 # Hi there, I'm Hassan Koroma 👋
----
 
 - 👨🏾‍💻 Data Science Student
 - 👨🏾‍🎓 Soon to be William & Mary Almunus
@@ -8,7 +7,7 @@
 - ⚡ Fun fact: I've lived abroad for 12 years
 
 
-My Toolbox
+### My Toolbox
 
 
 Connect with me!
