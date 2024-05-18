@@ -1,7 +1,7 @@
 # Hi there, I'm Hassan Koroma! 👋
 
 - 👨🏾‍💻 Data Science & Business Analytics
-- 👨🏾‍🎓 William & Mary Almunus
+- 👨🏾‍🎓 William & Mary Alumnus
 - 💡 I'm passionate about leveraging data to make informed business decisions
 - 🔭 I’m currently working on my Google Data Analytics Certification
 - 💬 Ask me about an accomplishment, project I've worked on, or anything!
