@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan Koroma! 👋
 
-- 👨🏾‍💻 Data Science & Business Analytics
+- 👨🏾‍💻 Data Science at Marine Corps Community Services, HQ
 - 👨🏾‍🎓 William & Mary Alumnus
 - 💡 I'm passionate about leveraging data to make informed business decisions
 - 🔭 I’m currently working on my Google Data Analytics Certification
